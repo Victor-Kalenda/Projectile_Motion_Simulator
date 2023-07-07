@@ -1,4 +1,4 @@
-# archery.c
+# Projectile Motion Simulator
 #### Video demo: <https://youtu.be/thJM0J1omLk>
 #### Description:
 archery.c takes numerous inputs about a bow and arrow (including wind_conditions),

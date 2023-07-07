@@ -5,7 +5,7 @@ archery.c takes numerous inputs about a bow and arrow (including wind_conditions
 and calculates the estimated angle at which the archer must aim up and left or
 right to hit the center of the target. The purpose of this project was to learn
 how to create mathematics based programs while also using the full capabilities
-of the computer. 
+of a computer to calculate problems with more variables than equations. 
 
 Information about the mathematical calculations and computational
 methods can be found on "math.pdf". Information about the testing of archery.c
